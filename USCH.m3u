@@ -33,6 +33,9 @@ https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/WJLA-TV_logo.svg/800px-WJLA-TV_logo.svg.png" group-title="USA - ABC",WJLA-TV
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="SPORTS",DAZN F1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/WLS-TV_logo.svg/800px-WLS-TV_logo.svg.png" group-title="USA - ABC",WLS-TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 
