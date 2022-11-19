@@ -1,0 +1,32 @@
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/KIII_3_Logo.png" group-title="LOCAL - ABC",KIII
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/KMGH_ABC_7_Denver.png" group-title="LOCAL - ABC",KMGH-TV
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/KOCO-TV_Logo.png" group-title="LOCAL - ABC",KOCO-TV 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/800px-WABC_TV_New_2021.svg.png" group-title="LOCAL - ABC",WABC-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="LOCAL - ABC",WBRZ
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/WLS-TV_logo.svg/800px-WLS-TV_logo.svg.png" group-title="LOCAL - ABC",WLS-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WOI_Local_5_Tegna.svg/1920px-WOI_Local_5_Tegna.svg.png" group-title="LOCAL - ABC",WOI-DT
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="LOCAL - ABC",WPLG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/800px-WPVI-TV_logos.svg.png" group-title="LOCAL - ABC",WPVI-TV
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+
+#EXTINF:-1 tvg=logo="https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png" group-title="LOCAL - ABC",WTAE
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+
